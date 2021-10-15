@@ -1,0 +1,13 @@
+name: appgis
+title: appgis
+username:
+account: jarvisdata
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2526761
+bundleId: 3360435
+url: https://jarvisdata.shinyapps.io/appgis/
+when: 1594086351.01568
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: base_alvara2.csv
