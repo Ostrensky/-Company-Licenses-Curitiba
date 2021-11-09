@@ -1,0 +1,13 @@
+name: app_curitiba
+title: app_curitiba
+username:
+account: jarvisdata
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5075531
+bundleId: 5229819
+url: https://ostrensky.shinyapps.io/app_curitiba/
+when: 1636429041.60233
+lastSyncTime: 1636429041.60233
+asMultiple: FALSE
+asStatic: FALSE
